@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simple Reboot</string>
-    <string name="action_settings">Paramètres</string>
-    <string name="reboot">Reboot</string>
-    <string name="reboot_summary">Redémarrez votre appareil</string>
-    <string name="reboot_recovery">Redémarrage vers le recovery</string>
-    <string name="reboot_recovery_summary">Redémarrage dans le recovery de votre appareil</string>
-    <string name="reboot_bootloader">Redémarrage vers le bootloader</string>
-    <string name="reboot_bootloader_summary">Redémarrage dans le bootloader de votre appareil. Cela peut ou non fonctionner selon l\'implémentation du fabricant de votre appareil.</string>
-    <string name="about_author_summary">Mes autres applications</string>
-    <string name="root_status">État des droits Root</string>
-    <string name="root_status_no">Droits Root indisponibles. Cette application ne fonctionnera pas correctement.</string>
-    <string name="root_status_yes">Disponible</string>
-    <string name="soft_reboot">Redémarrage logiciel</string>
-    <string name="soft_reboot_summary">Redémarrage uniquement de l\'interface utilisateur Android en forçant l\'arrêt du processus zygote</string>
-    <string name="reboot_safe_mode">Redémarrage en mode sans échec</string>
-    <string name="reboot_safe_mode_summary">Mode spécial pour vous aider à trouver la cause d\'un bogue (par exemple, vous avez installé une application qui pourrait se comporter de manière incorrecte) en chargeant la version Android nue</string>
-    <string name="shutdown">Extinction</string>
-    <string name="shutdown_summary">Éteindre votre appareil</string>
-    <string name="close">Fermer</string>
+   <string name = "app_name"> Einfacher Neustart </ string>
+    <string name = "action_settings"> Einstellungen </ string>
+    <string name = "reboot"> Neustart </ string>
+    <string name = "reboot_summary"> Starten Sie Ihr Gerät neu </ string>
+    <string name = "reboot_recovery"> Starten Sie die Wiederherstellung neu </ string>
+    <string name = "reboot_recovery_summary"> Starten Sie Ihre Gerätewiederherstellung neu </ string>
+    <string name = "reboot_bootloader"> Neustart des Bootloaders </ string>
+    <string name = "reboot_bootloader_summary"> Starten Sie den Bootloader Ihres Geräts neu. Abhängig von der Herstellerimplementierung Ihres Geräts funktioniert dies möglicherweise nicht. </ String>
+    <string name = "about_author_summary"> Meine anderen Anwendungen </ string>
+    <string name = "root_status"> Rechtestatusstamm </ string>
+    <string name = "root_status_no"> Rootrechte nicht verfügbar. Diese App wird nicht richtig funktionieren. </ String>
+    <string name = "root_status_yes"> Verfügbar </ string>
+    <string name = "soft_reboot"> Neustart der Software </ string>
+    <string name = "soft_reboot_summary"> Starten Sie nur die Android-Benutzeroberfläche neu, indem Sie das Herunterfahren des Zygote-Prozesses erzwingen. </ string>
+    <string name = "reboot_safe_mode"> Neustart im abgesicherten Modus </ string>
+    <string name = "reboot_safe_mode_summary"> Spezieller Modus, der Ihnen hilft, die Ursache eines Fehlers zu finden (beispielsweise haben Sie eine Anwendung installiert, die sich möglicherweise falsch verhält), und lädt die reine Android-Version </ string>
+    <string name = "shutdown"> Herunterfahren </ string>
+    <string name = "shutdown_summary"> Fahren Sie Ihr Gerät herunter </ string>
+    <string name = "close"> Schließen </ string>
 </resources>
