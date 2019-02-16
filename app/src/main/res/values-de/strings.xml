@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name = "app_name"> Einfacher Neustart </ string>
+    <string name = "action_settings"> Einstellungen </ string>
+    <string name = "reboot"> Neustart </ string>
+    <string name = "reboot_summary"> Starten Sie Ihr Gerät neu </ string>
+    <string name = "reboot_recovery"> Starten Sie die Wiederherstellung neu </ string>
+    <string name = "reboot_recovery_summary"> Starten Sie Ihre Gerätewiederherstellung neu </ string>
+    <string name = "reboot_bootloader"> Neustart des Bootloaders </ string>
+    <string name = "reboot_bootloader_summary"> Starten Sie den Bootloader Ihres Geräts neu. Abhängig von der Herstellerimplementierung Ihres Geräts funktioniert dies möglicherweise nicht. </ String>
+    <string name = "about_author_summary"> Meine anderen Anwendungen </ string>
+    <string name = "root_status"> Rechtestatusstamm </ string>
+    <string name = "root_status_no"> Rootrechte nicht verfügbar. Diese App wird nicht richtig funktionieren. </ String>
+    <string name = "root_status_yes"> Verfügbar </ string>
+    <string name = "soft_reboot"> Neustart der Software </ string>
+    <string name = "soft_reboot_summary"> Starten Sie nur die Android-Benutzeroberfläche neu, indem Sie das Herunterfahren des Zygote-Prozesses erzwingen. </ string>
+    <string name = "reboot_safe_mode"> Neustart im abgesicherten Modus </ string>
+    <string name = "reboot_safe_mode_summary"> Spezieller Modus, der Ihnen hilft, die Ursache eines Fehlers zu finden (beispielsweise haben Sie eine Anwendung installiert, die sich möglicherweise falsch verhält), und lädt die reine Android-Version </ string>
+    <string name = "shutdown"> Herunterfahren </ string>
+    <string name = "shutdown_summary"> Fahren Sie Ihr Gerät herunter </ string>
+    <string name = "close"> Schließen </ string>
+</resources>
